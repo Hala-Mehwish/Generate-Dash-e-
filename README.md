@@ -1,2 +1,3 @@
-# Generate-Dash-e-
-Generate a dash board using power BI
+# Generate Dash-e-
+Generate a dashboard using power BI
+
